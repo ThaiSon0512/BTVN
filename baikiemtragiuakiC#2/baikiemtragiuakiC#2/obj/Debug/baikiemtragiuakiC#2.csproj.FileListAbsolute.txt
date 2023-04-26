@@ -1,0 +1,8 @@
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\obj\Debug\baikiemtragiuakiC#2.csproj.AssemblyReference.cache
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\obj\Debug\baikiemtragiuakiC#2.csproj.SuggestedBindingRedirects.cache
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\obj\Debug\baikiemtragiuakiC#2.csproj.CoreCompileInputs.cache
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\bin\Debug\baikiemtragiuakiC#2.exe.config
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\bin\Debug\baikiemtragiuakiC#2.exe
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\bin\Debug\baikiemtragiuakiC#2.pdb
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\obj\Debug\baikiemtragiuakiC#2.exe
+F:\C#\baikiemtragiuakiC#2\baikiemtragiuakiC#2\obj\Debug\baikiemtragiuakiC#2.pdb
